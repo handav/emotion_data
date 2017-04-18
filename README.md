@@ -1,5 +1,9 @@
 # Exploring an emotion dataset
 
+### Dataset from:
+
+http://www.cs.rochester.edu/u/qyou/deepemotion/index.html
+
 ### This code is using Keras version 1.2.2. 
 You can do:
 
